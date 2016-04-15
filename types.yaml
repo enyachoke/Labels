@@ -1,0 +1,8 @@
+CustomAmpath:
+    paper_size: [162,90]
+    columns: 1
+    rows: 1
+    top_margin: 1
+    bottom_margin: 1
+    left_margin: 2
+    right_margin: 2
